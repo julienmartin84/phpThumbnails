@@ -1,5 +1,6 @@
 # phpThumbnails
 A php script for images thumbnails generation. Work with jpg, png and gif files.  
+Make sure to have at least php v5.6 and the gd extension activated.  
 The project already contains some images for a quick demo.
 
 ## How to use
