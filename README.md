@@ -3,6 +3,9 @@ A php script for images thumbnails generation. Work with jpg, png and gif files.
 Make sure to have at least php v5.6 and the gd extension activated.  
 The project already contains some images for a quick demo.
 
+<strong>Thumbnails generation is very resource consuming.</strong>  
+This application is intended to be run on your local web server in order to generate the thumbnails you want to use for your website.
+
 ## How to use
 <ol>
   <li>Clone the repository</li>
